@@ -8,14 +8,11 @@
 }
 
 nav {
-  position: absolute;
   display: flex;
   justify-content: space-between;
   padding: 50px 10px 10px 10px;
   width: 375px;
   height: 92px;
-  left: 0;
-  top: 0;
   background: #3c3a39;
 }
 
