@@ -6,6 +6,7 @@
   font-size: 20px;
   transition: all 0.5;
 }
+
 nav{
   position: absolute;
   display: flex;
@@ -17,6 +18,7 @@ nav{
   top: 0px;
   background: #3C3A39;
 }
+
 nav a{
   text-decoration: none;
   color: #FFFFFF;
@@ -28,16 +30,20 @@ nav a{
   font-weight: 700;
   font-size: 18px;
 }
+
 nav i{
   color: #FFFFFF;
   padding-top: 12px;
 }
+
 nav a:hover{
   border-bottom: 2px solid rgb(28, 28, 228);
 }
+
 nav i:hover{
   border-bottom: 2px solid rgb(28, 28, 228);
 }
+
 header{
   display: flex;
   flex-direction: column;
@@ -55,6 +61,7 @@ header{
   top: 92px;
   background: #1C1A19;
 }
+
 header h1{
   width: 327px;
   height: 124px;
@@ -69,6 +76,7 @@ header h1{
   order: 0;
   flex-grow: 0;
 }
+
 header h2{
   width: 327px;
   height: 27px;
@@ -81,6 +89,7 @@ header h2{
   align-items: center;
   color: #FFF5E1;
 }
+
 header p{
   width: 327px;
   height: 123px;
@@ -91,6 +100,7 @@ header p{
   line-height: 24px;
   color: #FFFFFF;
 }
+
 header div img{
   width: 200px;
   height: 40px;
