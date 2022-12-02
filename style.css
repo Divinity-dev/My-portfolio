@@ -50,9 +50,10 @@ header {
   align-items: flex-start;
   padding: 120px 24px;
   gap: 12px;
-  background-image: url(Images/illustration-header-mobile.png);
-  background-position: center;
-  background-size: cover;
+  background-image: url(Images/illustration-header-mobileheader\ bg.png);
+  background-position: right;
+  background-size: contain;
+  background-repeat: no-repeat;
   position: absolute;
   width: 375px;
   height: 590px;
