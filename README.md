@@ -1,6 +1,6 @@
-# My-portfolio
-<a name="portfolio"></a>
+# portfolio
 
+<a name="readme-top"></a>
 
 <!-- TABLE OF CONTENTS -->
 
@@ -8,44 +8,85 @@
 
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
-    
-- [🙏 Acknowledgements](Mr nathaniel)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
+- [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [📝 License](#license)
+
+<!-- PROJECT DESCRIPTION -->
 
 # 📖 [Portfolio] <a name="about-project"></a>
 
-> This is a project for profiling people
+> An evergreen site for my projects, case studies, and more information about me; expressing my personality, experience, and capabilities.
 
-**[portfolio** is a...
+**[Portfolio]** is 
 
-## 🛠 Built With <html and css"></a>
+## 🛠 Built With <a name="built-with"></a>
 
+### Tech Stack <a name="tech-stack"></a>
 
+<details>
+  <summary>HTML5</summary>
+  <ul>
+    <li><a href="#">HTML5</a></li>
+  </ul>
+</details>
 
+<details>
+  <summary>CSS3</summary>
+  <ul>
+    <li><a href="#">CSS3</a></li>
+  </ul>
+</details>
 
-### Deployment
+<!-- Features -->
 
-You can deploy this project using:
+### Key Features <a name="key-features"></a>
 
-<!--
-Example:
+> Here are a few key features of the application.
 
-```sh
-
-```
- -->
+- **[Beautifully styled navigation bar]**
+- **[Mobile friendly header]**
+- **[Most appealing fonts ]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- LIVE DEMO -->
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+> Here is a link to the deployed project.
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
 <!-- AUTHORS -->
 
-## 👥 Authors <a name="Asiriuwa Divine"></a>
-Asiriuwa Divine
+## 👥 Authors <a name="authors"></a>
 
-👤 **Author1**
+> Mention all of the collaborators of this project.
 
-- GitHub: (https://github.com/Divinity-dev)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+👤 **Divine Asiriuwa**
 
+- GitHub: [@Divinity-dev](https://github.com/Divinity-dev)
 
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+> These are the features i will add to the project.
+
+- [ ] **[Desktop version]**
+- [ ] **[Contact section]**
+- [ ] **[Footer section]**
+- [ ] **[form section]**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
