@@ -7,7 +7,7 @@
   transition: all 0.5;
 }
 
-nav { 
+nav {
   display: flex;
   justify-content: space-between;
   padding: 50px 10px 10px 10px;
