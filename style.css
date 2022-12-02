@@ -72,9 +72,6 @@ header h1{
   line-height: 64px;
   letter-spacing: 0.37px;
   color: #FF6B00;
-  flex: none;
-  order: 0;
-  flex-grow: 0;
 }
 
 header h2{
